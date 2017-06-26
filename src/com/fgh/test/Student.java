@@ -14,6 +14,7 @@ public class Student {
 		
 		Student st=new Student(1, "Raja");
 		System.out.println(st.id+"-------"+st.name);
+		System.out.println("hello in github");
 	}
 
 }
